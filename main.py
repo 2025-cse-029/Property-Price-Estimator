@@ -1,5 +1,6 @@
 from estimator import estimate_price
 
+
 area = float(input("Enter house area in marla: "))
 rooms = int(input("Enter number of bedrooms: "))
 location = input("Enter location (central, normal, outer): ").lower()
